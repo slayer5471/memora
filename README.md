@@ -88,8 +88,7 @@ Install the following before running MEMORA:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/MEMORA_AI.git
-cd MEMORA_AI
+git clone this repo
 ```
 
 Replace `YOUR_USERNAME` with your GitHub username and `MEMORA_AI` with your repository name.
